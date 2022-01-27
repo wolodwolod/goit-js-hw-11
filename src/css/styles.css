@@ -151,9 +151,9 @@ p {
 
 .btn-load-more {
   display: block;
-  width: 12%;
+  width: 200px;
   margin: 25px auto 0 auto;
-  padding: 8px 20px;
+  padding: 15px 20px;
   border: none;
   border-radius: 5px;
   background-color: #3f57b3;
